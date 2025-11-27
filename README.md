@@ -1,4 +1,29 @@
-## Hi there 👋
+## Hi there! 👋
+
+I'm **FIER**, a passionate developer with a knack for creating efficient and effective solutions. Welcome to my GitHub profile!
+
+## About Me
+
+I am an enthusiastic coder based in an undisclosed location. I love building projects that solve real-world problems and contribute to the community. Currently, I am focusing on different projects.
+
+## Skills & Technologies
+
+git,arduino,blender,cpp,css,discord,electron,github,html,js,kali,linkedin,lua,netlify,nodejs,powershell,pycharm,qt,sass,sqlite,svg,stackoverflow,unity,visualstudio,vscode,react,vite,windows,godot,codepen,tailwind
+
+## Latest Blog Posts
+
+Currently, I do not have any blog posts. Stay tuned for updates!
+
+## 
+
+```
+  _____     _     _                       _       _                      
+ |  ___|_ _| |__ (_) __ _ _ __         __| | ___ | |_ ___ ___  _ __ ___  
+ | |_ / _` | '_ \| |/ _` | '_ \ _____ / _` |/ _ \| __/ __/ _ \| '_ ` _ \ 
+ |  _| (_| | |_) | | (_| | | | |_____| (_| | (_) | || (_| (_) | | | | | |
+ |_|  \__,_|_.__/|_|\__,_|_| |_|      \__,_|\___/ \__\___\___/|_| |_| |_|
+                                                                         
+```
 
 <!--
 **Fabian-dotcom/Fabian-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
