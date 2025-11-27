@@ -8,7 +8,7 @@ I am an enthusiastic coder based in an undisclosed location. I love building pro
 
 ## Skills & Technologies
 
-git,arduino,blender,cpp,css,discord,electron,github,html,js,kali,linkedin,lua,netlify,nodejs,powershell,pycharm,qt,sass,sqlite,svg,stackoverflow,unity,visualstudio,vscode,react,vite,windows,godot,codepen,tailwind
+[![My Skills](https://skillicons.dev/icons?i=git,arduino,blender,cpp,css,discord,electron,github,html,js,kali,linkedin,lua,netlify,nodejs,powershell,pycharm,qt,sass,sqlite,svg,stackoverflow,unity,visualstudio,vscode,react,vite,windows,godot,codepen,tailwind&perline=8)](https://skillicons.dev)
 
 ## Latest Blog Posts
 
