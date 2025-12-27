@@ -1,12 +1,12 @@
-## Hi there! 👋
+## Hello everyone! 👋
 
-I'm **FIER**, a passionate developer with a knack for creating efficient and effective solutions. Welcome to my GitHub profile!
+I am **FIER**, a passionate developer with the mindset to create efficient and impactful solutions. Welcome to my GitHub profile!
 
 ## About Me
 
-I am an enthusiastic coder based in an undisclosed location. I love building projects that solve real-world problems and contribute to the community. Currently, I am focusing on different projects.
+I am an enthusiastic programmer. I love developing projects that solve real problems and contribute to the community. Currently, I am focusing on several larger projects that are not public for the time being.
 
-## Skills & Technologies
+## My skills & the technologies I use
 
 [![My Skills](https://skillicons.dev/icons?i=git,arduino,blender,codepen,cpp,css,discord,electron,github,godot,html,js,kali,linkedin,lua,netlify,nodejs,powershell,pycharm,qt,react,sass,sqlite,svg,stackoverflow,tailwind,unity,visualstudio,vscode,vite,windows&perline=10)](https://skillicons.dev)
 
