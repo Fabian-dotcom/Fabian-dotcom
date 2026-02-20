@@ -1,21 +1,70 @@
-## Hello everyone! 👋
+# 👋 Hi, I’m Fabian
 
-I am **FIER**, a passionate developer with the mindset to create efficient and impactful solutions. Welcome to my GitHub profile!
+💻 Passionate **Developer** with a strong focus on building efficient, practical, and creative solutions.  
+🚀 Interested in **Game Development, Desktop Apps, and Web Technologies**.
 
-## About Me
+---
 
-I am an enthusiastic programmer. I love developing projects that solve real problems and contribute to the community. Currently, I am focusing on several larger projects that are not public for the time being.
+## 🧑‍💻 About Me
 
-## My skills & the technologies I use
+- 🔹 Developer with experience in multiple languages and frameworks  
+- 🔹 Focused on real-world solutions and clean, maintainable code  
+- 🔹 Currently working on several **larger private projects**  
+- 🔹 Always learning and open to collaboration
 
-[![My Skills](https://skillicons.dev/icons?i=git,arduino,blender,codepen,cpp,css,discord,electron,github,godot,html,js,kali,linkedin,lua,netlify,nodejs,powershell,pycharm,qt,react,sass,sqlite,svg,stackoverflow,tailwind,unity,visualstudio,vscode,vite,windows&perline=10)](https://skillicons.dev)
+---
 
-## Latest Blog Posts
+## 🛠 Tech Stack & Skills
 
-Currently, I do not have any blog posts. Stay tuned for updates!
+### 🔤 Programming Languages
+[![Languages](https://skillicons.dev/icons?i=cpp,js,lua,css,html)](https://skillicons.dev)
 
-## 
+---
 
+### 🌐 Web & App Development
+[![Web](https://skillicons.dev/icons?i=react,nodejs,electron,vite,tailwind,sass)](https://skillicons.dev)
+
+---
+
+### 🎮 Game Development
+[![GameDev](https://skillicons.dev/icons?i=godot,unity,blender)](https://skillicons.dev)
+
+---
+
+### 🧰 Tools & Workflow
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,qt,sqlite,netlify)](https://skillicons.dev)
+
+---
+
+### 🖥 Operating Systems & Platforms
+[![OS](https://skillicons.dev/icons?i=windows,kali)](https://skillicons.dev)
+
+---
+
+## 🚀 Featured Projects
+
+> Some of my current projects are private, but public showcases are coming soon.
+
+- 🔹 **Upcoming Project** – Game / Tool / Application  
+- 🔹 **Upcoming Project** – Focused on performance & clean architecture  
+
+---
+
+## 🎯 Current Focus
+
+- Improving advanced **Godot** game systems  
+- Building **Electron** desktop applications  
+- Writing cleaner and more maintainable code  
+
+---
+
+## 📫 Contact & Links
+
+- 💬 **Discord:** Fabian#1234  
+- 💼 **LinkedIn:** https://linkedin.com  
+- 🌐 **Portfolio:** Coming soon  
+
+---
 ```
   _____     _     _                       _       _                      
  |  ___|_ _| |__ (_) __ _ _ __         __| | ___ | |_ ___ ___  _ __ ___  
