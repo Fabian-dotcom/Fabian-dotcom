@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Fabian
 
-💻 Passionate **Developer** with a strong focus on building efficient, practical, and creative solutions.  
-🚀 Interested in **Game Development, Desktop Apps, and Web Technologies**.
+Passionate **Developer** with a strong focus on building efficient, practical, and creative solutions.  
+Interested in **Game Development, Desktop Apps, and Web Technologies**.
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 - 🔹 Developer with experience in multiple languages and frameworks  
 - 🔹 Focused on real-world solutions and clean, maintainable code  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠 Tech Stack & Skills
+## Tech Stack & Skills
 
 ### 🔤 Programming Languages
 [![Languages](https://skillicons.dev/icons?i=cpp,js,lua,css,html)](https://skillicons.dev)
@@ -60,9 +60,9 @@
 
 ## 📫 Contact & Links
 
-- 💬 **Discord:** Fabian#1234  
-- 💼 **LinkedIn:** https://linkedin.com  
-- 🌐 **Portfolio:** Coming soon  
+- 💬 **Discord:** > Coming soon
+- 💼 **LinkedIn:** > Coming soon
+- 🌐 **Portfolio:** > Coming soon  
 
 ---
 ```
