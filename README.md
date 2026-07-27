@@ -1,90 +1,86 @@
-# 👋 Hi, I’m Fabian
+# Hi, I'm Fabian
 
-Passionate **Developer** with a strong focus on building efficient, practical, and creative solutions.  
-Interested in **Game Development, Desktop Apps, and Web Technologies**.
+Software developer passionate about building modern desktop applications, intelligent software, and tools that solve real-world problems.
 
----
-
-## About Me
-
-- 🔹 Developer with experience in multiple languages and frameworks  
-- 🔹 Focused on real-world solutions and clean, maintainable code  
-- 🔹 Currently working on several **larger private projects**  
-- 🔹 Always learning and open to collaboration
+My primary focus is **C++**, **Qt/QML**, and designing software that is scalable, maintainable, and enjoyable to use. I enjoy taking projects from the initial idea through architecture, implementation, and refinement.
 
 ---
 
-## Tech Stack & Skills
+# About Me
 
-### 🔤 Programming Languages
-[![Languages](https://skillicons.dev/icons?i=cpp,js,lua,css,html)](https://skillicons.dev)
-
----
-
-### 🌐 Web & App Development
-[![Web](https://skillicons.dev/icons?i=react,nodejs,electron,vite,tailwind,sass)](https://skillicons.dev)
+* Passionate about building complete software systems from concept to implementation
+* Focused on **C++**, **Qt/QML**, desktop applications, and software architecture
+* Exploring AI-powered applications, automation, and intelligent workflows
+* Developing several long-term private projects with a focus on quality and scalability
+* Continuously learning and improving through real-world projects
 
 ---
 
-### 🎮 Game Development
-[![GameDev](https://skillicons.dev/icons?i=godot,unity,blender)](https://skillicons.dev)
+# 🛠 Tech Stack
+
+### Programming Languages
+
+[![Languages](https://skillicons.dev/icons?i=cpp,js,lua,python)](https://skillicons.dev)
+
+### Desktop Development
+
+[![Desktop](https://skillicons.dev/icons?i=qt,electron,nodejs,sqlite)](https://skillicons.dev)
+
+### Frontend Technologies
+
+[![Frontend](https://skillicons.dev/icons?i=react,vite,html,css,sass,tailwind)](https://skillicons.dev)
+
+### Creative Development
+
+[![Creative](https://skillicons.dev/icons?i=godot,blender)](https://skillicons.dev)
+
+### Development Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio)](https://skillicons.dev)
+
+### Platforms
+
+[![Platforms](https://skillicons.dev/icons?i=windows,ubuntu,kali)](https://skillicons.dev)
 
 ---
 
-### 🧰 Tools & Workflow
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,qt,sqlite,netlify)](https://skillicons.dev)
+# Current Projects
+
+Most of my work is currently developed in private repositories while actively evolving.
+
+### Abi Dashboard
+
+A modern desktop application built with **C++**, **Qt**, and **QML** that helps students organize and manage their graduation journey through an intuitive and responsive interface.
+
+### Mind AI
+
+An experimental long-term project focused on persistent memory, intelligent workflows, and AI-assisted software systems.
+
+### Developer & Productivity Tools
+
+A collection of utilities and experiments designed to improve workflows, automate repetitive tasks, and explore new technologies.
+
+Public showcases and open-source projects will be released as development progresses.
 
 ---
 
-### 🖥 Operating Systems & Platforms
-[![OS](https://skillicons.dev/icons?i=windows,kali)](https://skillicons.dev)
+# Current Focus
+
+* Modern desktop development with **C++**, **Qt**, and **QML**
+* Software architecture and reusable component design
+* Artificial Intelligence and intelligent software systems
+* Building applications with great user experience
+* Writing clean, maintainable, and scalable code
 
 ---
 
-## 🚀 Featured Projects
+# 📫 Connect With Me
 
-> Some of my current projects are private, but public showcases are coming soon.
-
-- 🔹 **Upcoming Project** – Game / Tool / Application  
-- 🔹 **Upcoming Project** – Focused on performance & clean architecture  
+* 💼 LinkedIn: *Coming soon*
+* 🌐 Portfolio: *Coming soon*
 
 ---
 
-## 🎯 Current Focus
+> *"Great software isn't just about making things work — it's about making them simple, reliable, and enjoyable to use."*
 
-- Improving advanced **Godot** game systems  
-- Building **Electron** desktop applications  
-- Writing cleaner and more maintainable code  
-
----
-
-## 📫 Contact & Links
-
-- 💬 **Discord:** > Coming soon
-- 💼 **LinkedIn:** > Coming soon
-- 🌐 **Portfolio:** > Coming soon  
-
----
-```
-  _____     _     _                       _       _                      
- |  ___|_ _| |__ (_) __ _ _ __         __| | ___ | |_ ___ ___  _ __ ___  
- | |_ / _` | '_ \| |/ _` | '_ \ _____ / _` |/ _ \| __/ __/ _ \| '_ ` _ \ 
- |  _| (_| | |_) | | (_| | | | |_____| (_| | (_) | || (_| (_) | | | | | |
- |_|  \__,_|_.__/|_|\__,_|_| |_|      \__,_|\___/ \__\___\___/|_| |_| |_|
-                                                                         
-```
-
-<!--
-**Fabian-dotcom/Fabian-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=Fabian-dotcom&style=flat-square)
