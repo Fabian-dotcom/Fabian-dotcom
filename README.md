@@ -17,7 +17,7 @@ I'm interested in **AI, computer science, cybersecurity, robotics, game developm
 - Interested in **hackathons and collaborative projects**
 - Always trying out new technologies and ideas
 
----
+<img src="koi/koi.gif" width="256" alt="My koi" />
 
 ## Tech Stack
 
